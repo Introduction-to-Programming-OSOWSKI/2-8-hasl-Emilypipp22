@@ -4,4 +4,3 @@ def hasL(w):
         if w[i] == "l":
             return True
     return False
-print(hasL("lovely"))
